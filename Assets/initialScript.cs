@@ -6,6 +6,7 @@ public class initialScript : MonoBehaviour
     void Start()
     {
         // testing comment
+        // testing comment
         print("hello world");
     }
 
